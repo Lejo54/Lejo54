@@ -2,10 +2,19 @@
 
 Je m'appelle Joseph, étudiant développeur en BUT 
 
-Je suis passionné de musique rock🎸, les jeux vidéo🎮 et les voitures anciennes🏎️
+Je suis passionné de musique rock🎸, les jeux vidéo🎮 et les voitures anciennes🏎️ <br>
 J'aime beaucoup le java et le C
 
 ## Languages
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=c,cs,bash,html,css,php,js,py,java,sqlite)](https://skillicons.dev)
+  </br>
+  </br>
+  ![Top Langs](https://github-readme-stats-silk-zeta-79.vercel.app/api/top-langs/?username=LeJo54&theme=nightowl&layout=compact)
+</div>
+
+<img src="image/requin.png"/>
 
 
 <!--
