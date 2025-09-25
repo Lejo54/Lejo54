@@ -1,4 +1,12 @@
-## Hi there 👋
+## Bonsoir 👋 
+
+Je m'appelle Joseph, étudiant développeur en BUT 
+
+Je suis passionné de musique rock🎸, les jeux vidéo🎮 et les voitures anciennes🏎️
+J'aime beaucoup le java et le C
+
+## Languages
+
 
 <!--
 **Lejo54/Lejo54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
