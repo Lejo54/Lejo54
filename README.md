@@ -1,9 +1,28 @@
 ## Bonsoir 👋 
 
-Je m'appelle Joseph, étudiant développeur en BUT 
+```java
+class developpeurApp extends Humain 
+{
+    private String _nom;
+    private List<String> _passions;
 
-Je suis passionné de musique rock🎸, les jeux vidéo🎮 et les voitures anciennes🏎️ <br>
-J'aime beaucoup le java et le C
+    public void developpeurApp() 
+    {
+        super();
+        this._nom = "Joseph";
+        this._passions = {"Rock","vieilles voitures","Java","POO","C","jeux vidéo"};
+    }
+
+    public void sayHi()
+    {
+        System.out.println("Bonsoir, bienvenue chez moi");
+    }
+     public void goSleep()
+    {
+        System.out.println("Zzzzzzzz");
+    }
+}
+```
 
 ## Languages
 <div align="center">
@@ -14,20 +33,20 @@ J'aime beaucoup le java et le C
   ![Top Langs](https://github-readme-stats-silk-zeta-79.vercel.app/api/top-langs/?username=LeJo54&theme=nightowl&layout=compact)
 </div>
 
-<img src="image/requin.png"/>
+## Tools
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=linux,idea,vscode,vscodium,git,gitlab,github,godot)](https://skillicons.dev)
+  </br>
+  
+</div>
 
+##
+<div align="center">
+<img 
+  src="images/requin.png"
+  width="300" 
+  height="300"
+  />
+</div>
 
-<!--
-**Lejo54/Lejo54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
