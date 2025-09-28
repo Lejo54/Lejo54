@@ -25,10 +25,13 @@ class developpeurApp extends Etudiant
 }
 ```
 
-<div align="center">
+<div align="left">
     
 ## Languages
+</div>
 
+<div align="center">
+    
 ### Web
  [![My Skills](https://skillicons.dev/icons?i=html,css,php,js,sqlite)](https://skillicons.dev)
      
@@ -39,12 +42,18 @@ class developpeurApp extends Etudiant
   [![My Skills](https://skillicons.dev/icons?i=cs,php,py,java)](https://skillicons.dev)
     
   </br>
+</div>
 
+<div align="left">
+    
 ## Tools
-  
+</div>
+
+<div align="center">
+    
   [![My Skills](https://skillicons.dev/icons?i=linux,idea,vscode,vscodium,git,gitlab,github,godot)](https://skillicons.dev)
   </br>
-  
+</div>
 
 
 ## Musics I like
