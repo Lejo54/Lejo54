@@ -1,7 +1,7 @@
 ## Bonsoir 👋 
 
 ```java
-class developpeurApp extends Humain 
+class developpeurApp extends Etudiant
 {
     private String _nom;
     private List<String> _passions;
@@ -25,17 +25,22 @@ class developpeurApp extends Humain
 }
 ```
 
-## Languages
 <div align="center">
-  
-  [![My Skills](https://skillicons.dev/icons?i=c,cs,bash,html,css,php,js,py,java,sqlite)](https://skillicons.dev)
+    
+## Languages
+
+### Web
+ [![My Skills](https://skillicons.dev/icons?i=html,css,php,js,sqlite)](https://skillicons.dev)
+     
+### System
+ [![My Skills](https://skillicons.dev/icons?i=c,bash)](https://skillicons.dev)
+     
+ ### OOP
+  [![My Skills](https://skillicons.dev/icons?i=cs,php,py,java)](https://skillicons.dev)
+    
   </br>
-  </br>
-  ![Top Langs](https://github-readme-stats-silk-zeta-79.vercel.app/api/top-langs/?username=LeJo54&theme=nightowl&layout=compact)
-</div>
 
 ## Tools
-<div align="center">
   
   [![My Skills](https://skillicons.dev/icons?i=linux,idea,vscode,vscodium,git,gitlab,github,godot)](https://skillicons.dev)
   </br>
