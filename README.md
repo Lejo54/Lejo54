@@ -90,7 +90,7 @@ class developpeurApp extends Etudiant
 ##
 <div align="center">
 <img 
-  src="images/requin.png"
+  src="images/meme.png"
   width="300" 
   height="300"
   />
