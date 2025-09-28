@@ -45,6 +45,10 @@ class developpeurApp extends Etudiant
   [![My Skills](https://skillicons.dev/icons?i=linux,idea,vscode,vscodium,git,gitlab,github,godot)](https://skillicons.dev)
   </br>
   
+
+
+## Musics I like
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6p6vsqpmlucd5f8wh525htu2a&unique={true|1|on|yes})
 </div>
 
 ##
@@ -55,4 +59,6 @@ class developpeurApp extends Etudiant
   height="300"
   />
 </div>
+
+
 
