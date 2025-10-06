@@ -55,9 +55,9 @@ class developpeurApp extends Etudiant
   </br>
 </div>
 
-<div align="center">
 
 ## Musics I like
+<div align="center">
 <table>
 <tr>
 <td width="60%">
