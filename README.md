@@ -55,6 +55,7 @@ class developpeurApp extends Etudiant
   </br>
 </div>
 
+<div align="center">
 
 ## Musics I like
 <table>
@@ -65,7 +66,7 @@ class developpeurApp extends Etudiant
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6p6vsqpmlucd5f8wh525htu2a&unique={true|1|on|yes})
 
 </td>
-<td width="40%">
+<td width="60%">
 
 ### 🎵 My favorite bands
 
@@ -86,6 +87,7 @@ class developpeurApp extends Etudiant
 </td>
 </tr>
 </table>
+</div>
 
 ##
 <div align="center">
