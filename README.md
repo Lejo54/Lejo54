@@ -26,7 +26,12 @@ class developpeurApp extends Etudiant
 ```
 
 <div align="left">
-    
+
+## Projects
+- [**DnD_OOP**](https://github.com/Lejo54/DnD_POO): Jeu textuel Donjons et Dragons en Java POO <br>
+- [**Gestion-BDD-Winforms**](https://github.com/Lejo54/Gestion-BDD-Winforms): Logiciel de gestion de pompier en WinForms (C#,.Net,Sqlite) <br>
+- **(Bientot disponible) Jeu vidéo sérieux**: Jeu style JRPG sur l'organisation d'un audit dans une grande entreprise <br>
+
 ## Languages
 </div>
 
