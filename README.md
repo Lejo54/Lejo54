@@ -58,7 +58,7 @@ class developpeurApp extends Etudiant
 
 <div align="center">
     
-  [![My Skills](https://skillicons.dev/icons?i=linux,idea,vscode,vscodium,git,gitlab,github,godot)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linux,idea,vscode,vscodium,git,gitlab,github,godot,laravel)](https://skillicons.dev)
   </br>
 </div>
 
