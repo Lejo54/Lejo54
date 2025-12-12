@@ -34,6 +34,7 @@ class developpeurApp extends Etudiant
 - **(Bientot disponible) Bot discord**: Bot discord permettant de jouer de la musique (Java) <br>
 - **(Bientot disponible) Site internet**: Site internet de post, chat en ligne privée (HTML,Boostrap,CSS,PHP Laravel) <br>
 
+<div align="center"><img src="./images/lucifer-hazbin-hotel.gif" width="100px" height="100px"/></div>
 ## Languages
 </div>
 
