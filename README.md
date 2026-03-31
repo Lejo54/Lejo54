@@ -33,21 +33,25 @@ class developpeurApp extends Etudiant
 - [**Bataille Navale**](https://github.com/Lejo54/Bataille-Navale): Jeu de bataille navale en java (Java,JavaSwing) <br>
 - [**Jeu vidéo sérieux**](https://github.com/Lejo54/T3-Odie-Rebirth-of-the-KPI): Jeu style JRPG sur l'organisation d'un audit dans une grande entreprise (Godot,GDscript) <br>
 - **(Bientot disponible) Site internet**: Site internet de post, chat en ligne privée (HTML,Boostrap,CSS,PHP Laravel) <br>
+- [**StackOverLivre**](): Application android de gestion de livres et d'auteurs (Java android) + API correspondante (TypeScript,express,prisma)
+- [**Site web de gestion de livre**](): Site web de gestion de livres, d'auteurs, utilisateurs et commantaires (React,TypeScript) + API correspondante (TypeScript,express,prisma)
 
 <div align="center"><img src="./images/lucifer-hazbin-hotel.gif" width="100px" height="100px"/></div>
-## Languages
+
 </div>
+
+## Languages
 
 <div align="center">
     
 ### Web
- [![My Skills](https://skillicons.dev/icons?i=html,css,php,js,sqlite)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,php,js,sqlite,react,typescript,prisma,bun,express)](https://skillicons.dev)
      
 ### System
- [![My Skills](https://skillicons.dev/icons?i=c,bash)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=c,bash,debian)](https://skillicons.dev)
      
  ### OOP
-  [![My Skills](https://skillicons.dev/icons?i=cs,php,py,java)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,php,py,java,net)](https://skillicons.dev)
     
   </br>
 </div>
@@ -59,7 +63,7 @@ class developpeurApp extends Etudiant
 
 <div align="center">
     
-  [![My Skills](https://skillicons.dev/icons?i=linux,idea,vscode,vscodium,git,gitlab,github,godot,laravel,bootstrap)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linux,idea,vscode,vscodium,git,gitlab,github,godot,laravel,bootstrap,androidstudio)](https://skillicons.dev)
   </br>
 </div>
 
