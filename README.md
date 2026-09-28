@@ -75,7 +75,7 @@ class developpeurApp extends Etudiant
 <td width="60%">
 
 ### 🎧 Recently
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6p6vsqpmlucd5f8wh525htu2a&unique={true|1|on|yes})
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=6p6vsqpmlucd5f8wh525htu2a)
 
 </td>
 <td width="60%">
